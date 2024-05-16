@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">A07Exercicio01</string>
+    <string name="cliente">Cliente: </string>
+    <string name="numConta"> Numero da conta:</string>
+    <string name="saldo">Saldo: </string>
+    <string name="diaRendimento"> Dia do rendimento: </string>
+    <string name="limite"> Limite:</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="poupanca">Poupança</string>
+    <string name="especial">Especial</string>
+    <string name="diaErro"> Dia invalido</string>
+    <string name="valor">Valor</string>
+
+    <string name="taxa"> valor da taxa em %</string>
+    <string name="rbDeposita">Depositar</string>
+    <string name="rbSacar">Sacar</string>
+    <string name="rbTaxar">Taxar</string>
+
+    <string name="voltar">Voltar</string>
+</resources>
